@@ -1,1 +1,1 @@
-# dersprogi-lemleri
+# sample project about course registration
